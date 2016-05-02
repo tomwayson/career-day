@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Making Modern Day Maps",
+    "packageVersion": "0.0.1",
+    "revealTheme": "beige",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "tomwayson",
+    "githubRepository": "career-day-2016"
+  }
+}
