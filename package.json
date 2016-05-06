@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:tomwayson/career-day-2016.git"
+    "url": "git@github.com:tomwayson/career-day.git"
   },
   "scripts": {
     "test": "grunt test"

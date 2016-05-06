@@ -1,1 +1,3 @@
-# It's a Map! <!-- .element style="color: #f7f2d4; margin-top: -320px" -->
+![Esri](http://upload.wikimedia.org/wikipedia/de/thumb/4/46/ESRI_Logo.svg/708px-ESRI_Logo.svg.png)
+
+Thank you!
