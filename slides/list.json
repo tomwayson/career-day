@@ -1,6 +1,12 @@
 [
     "index.md",
-    "esri.md",
+    {
+        "attr": {
+            "data-background": "images/map-man.png",
+            "data-background-size": "600px",
+            "data-background-color": "#414042"
+        }
+    },
     "what-is-a-map.html",
     {
         "filename": "its-a-map.md",
@@ -106,6 +112,31 @@
             "data-background": "images/sublime-screenshot.png"
         }
     },
+    {
+        "attr": {
+            "data-background": "https://c3.staticflickr.com/3/2841/11512594484_6ab7131cc8_b.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/computer_pov.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/desk-toys.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/programming_800.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/uscx-large.jpg"
+        }
+    },
     "skills.md",
     {
         "filename": "you-can-do-this-too.md",
@@ -114,20 +145,5 @@
         }
     },
     "claremont-treasure-map.md",
-    "whats-it-like.md",
-    {
-        "attr": {
-            "data-background": "images/desk-toys.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "https://c3.staticflickr.com/3/2841/11512594484_6ab7131cc8_b.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "http://cdn.screenrant.com/wp-content/uploads/Batman-of-the-Office-Video-570x294.jpg"
-        }
-    }
+    "thank-you.md"
 ]
