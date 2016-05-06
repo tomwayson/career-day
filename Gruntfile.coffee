@@ -31,7 +31,7 @@ module.exports = (grunt) ->
             jshint:
                 files: ['js/*.js']
                 tasks: ['jshint']
-        
+
         connect:
 
             livereload:
@@ -71,6 +71,7 @@ module.exports = (grunt) ->
                         'bower_components/**'
                         'js/**'
                         'resources/**'
+                        'images/**'
                     ]
                     dest: 'dist/'
                 },{
@@ -80,7 +81,7 @@ module.exports = (grunt) ->
                     filter: 'isFile'
                 }]
 
-        
+
         buildcontrol:
 
             options:
@@ -90,9 +91,9 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: '<%= pkg.repository.url %>'
+                    remote: 'https://github.com/tomwayson/career-day-2016.git'
                     branch: 'gh-pages'
-        
+
 
 
     # Load all grunt tasks.
@@ -134,13 +135,13 @@ module.exports = (grunt) ->
             'copy'
         ]
 
-    
+
     grunt.registerTask 'deploy',
         'Deploy to Github Pages', [
             'dist'
             'buildcontrol'
         ]
-    
+
 
     # Define default task.
     grunt.registerTask 'default', [
