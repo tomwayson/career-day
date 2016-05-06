@@ -114,12 +114,12 @@
     },
     {
         "attr": {
-            "data-background": "https://c3.staticflickr.com/3/2841/11512594484_6ab7131cc8_b.jpg"
+            "data-background": "images/computer_pov.jpg"
         }
     },
     {
         "attr": {
-            "data-background": "images/computer_pov.jpg"
+            "data-background": "https://c3.staticflickr.com/3/2841/11512594484_6ab7131cc8_b.jpg"
         }
     },
     {
@@ -127,6 +127,7 @@
             "data-background": "images/desk-toys.jpg"
         }
     },
+    "skills.md",
     {
         "attr": {
             "data-background": "images/programming_800.jpg"
@@ -137,13 +138,12 @@
             "data-background": "images/uscx-large.jpg"
         }
     },
-    "skills.md",
     {
         "filename": "you-can-do-this-too.md",
         "attr": {
             "data-background": "images/mapping-boy.jpg"
         }
     },
-    "claremont-treasure-map.md",
+    "mt-baldy-map.md",
     "thank-you.md"
 ]
